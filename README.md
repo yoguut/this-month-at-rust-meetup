@@ -11,4 +11,6 @@ to run:
 cargo install mdbook
 ```
 
-Then clone this repository.
+Then fork this repository.
+
+Then submit your PR if you have a topic you wish to present for next time.

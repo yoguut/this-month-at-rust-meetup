@@ -1,0 +1,6 @@
+[book]
+authors = ["karen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "This Month at Rust Meetup"

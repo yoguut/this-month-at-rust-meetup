@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "This Month at Rust Meetup"
+
+[output.html]
+default-theme = "ayu"
+git-repository-url = "https://github.com/yoguut/this-month-at-rust-meetup"
